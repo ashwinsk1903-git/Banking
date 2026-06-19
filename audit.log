@@ -1,0 +1,49 @@
+2026-06-12T18:18:00.0531197 - Application started
+2026-06-12T18:18:04.6209187 - User selected option: REGISTER
+2026-06-12T18:18:15.8555867 - New user registered: Ashwin
+2026-06-12T18:18:21.9780142 - User selected option: LOGIN
+2026-06-12T18:18:29.6676901 - Login attempt for username: Ashwin
+2026-06-12T18:18:29.6746963 - Login successful for username: Ashwin
+2026-06-12T18:23:36.238363 - Application started
+2026-06-12T18:23:41.9930635 - User selected option: REGISTER
+2026-06-12T18:33:43.6115118 - Application started
+2026-06-12T18:33:47.822764 - User selected option: REGISTER
+2026-06-12T18:33:54.3871504 - New user registered: Ashwin
+2026-06-12T18:33:57.9502263 - User selected option: LOGIN
+2026-06-12T18:34:08.3950721 - Login attempt for username: Ashwin
+2026-06-12T18:34:08.3990697 - Login successful for username: Ashwin
+2026-06-12T18:36:12.8435217 - Application started
+2026-06-12T18:36:17.5686287 - User selected option: REGISTER
+2026-06-12T18:36:28.6337659 - New user registered: Ashwin
+2026-06-12T18:36:31.5709592 - User selected option: LOGIN
+2026-06-12T18:36:40.434985 - Login attempt for username: Ashwim
+2026-06-12T18:36:40.4379878 - Login failed, username not found: Ashwim
+2026-06-12T18:36:47.4304736 - User selected option: Register
+2026-06-12T18:37:04.2432338 - New user registered: Magesh
+2026-06-12T18:37:07.9313248 - User selected option: LOGIN
+2026-06-12T18:37:19.24534 - Login attempt for username: Ashwin
+2026-06-12T18:37:19.249334 - Login successful for username: Ashwin
+2026-06-12T18:47:50.7950596 - Application started
+2026-06-12T18:47:55.864194 - User selected option: REGISTER
+2026-06-12T18:48:29.8589708 - New user registered: Ashwin
+2026-06-12T18:48:33.570386 - User selected option: 1
+2026-06-12T18:48:33.5713881 - Invalid option entered: 1
+2026-06-12T18:48:41.9414147 - User selected option: REGISTER
+2026-06-12T18:48:47.3729835 - New user registered: Magesh
+2026-06-12T18:48:50.2740447 - User selected option: LOGIN
+2026-06-12T18:48:55.4146311 - Login attempt for username: Ashwin
+2026-06-12T18:48:55.4156304 - Login successful for username: Ashwin
+2026-06-12T18:56:04.6568896 - Application started
+2026-06-12T18:56:10.7499903 - User selected option: register
+2026-06-12T18:56:19.8298768 - New user registered: Ashwin
+2026-06-12T18:56:37.0469828 - User selected option: register
+2026-06-12T18:56:43.2419784 - New user registered: Magesh
+2026-06-12T18:56:47.7087009 - User selected option: login
+2026-06-12T18:56:51.5530683 - Login attempt for username: Ashwin
+2026-06-12T18:56:51.5550688 - Login successful for username: Ashwin
+2026-06-16T09:05:55.966541 - Application started
+2026-06-16T09:06:02.1610076 - User selected option: REGISTER
+2026-06-16T09:06:09.1027009 - New user registered: Ashwin
+2026-06-16T09:06:12.5535876 - User selected option: LOGIN
+2026-06-16T09:06:19.4872032 - Login attempt for username: Ashwin
+2026-06-16T09:06:19.4881996 - Login successful for username: Ashwin
